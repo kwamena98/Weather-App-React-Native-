@@ -52,7 +52,7 @@ More features will be added as I progress through the tutorial.
 
 ## Progress and Screenshots
 For every major commit, I’ve included a screenshot to show the progress I’ve made. Here’s a glimpse:
-_Note: Screenshots are stored in the `screenshots/` directory._
+Screenshots are stored in the `screenshots/` directory._
 
 ## Acknowledgments
 - Huge thanks to [Code with Nomi](https://www.youtube.com/@CodeWithNomi) for the excellent React Native tutorial series.
