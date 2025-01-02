@@ -17,7 +17,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/kwamena98/Weather-App-React-Native-.git)
+   git clone https://github.com/kwamena98/Weather-App-React-Native-.git
    ```
 
 2. Navigate to the project directory:
