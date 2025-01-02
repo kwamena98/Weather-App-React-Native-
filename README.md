@@ -56,7 +56,7 @@ For every major commit, I’ve included a screenshot to show the progress I’ve
 | Commit | Screenshot |
 |--------|------------|
 | In the beginning | ![Screenshot](None) |
-| SearchBar,ImageDisplay,Temperature,condition,searchToggle | ![screenshots](firstScreen.png) |
+| SearchBar,ImageDisplay,Temperature,condition,searchToggle | ![screenshots](screenshots/firstScreen.png) |
 
 
 
